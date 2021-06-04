@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flydecor\n"
+"POT-Creation-Date: 2020-10-15 16:41+0530\n"
+"PO-Revision-Date: 2020-10-15 16:41+0530\n"
+"Last-Translator: \n"
+"Language-Team: Flythemes Team <support@flythemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+
+#: 404.php:15
+msgid "<strong>404</strong> Not Found"
+msgstr ""
+
+#: 404.php:18
+msgid ""
+"Looks like you have taken a wrong turn.....<br />Do Not worry... it happens "
+"to the best of us."
+msgstr ""
+
+#: content-page.php:19
+#: content-single.php:29
+#: content.php:36
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:24
+#: content-single.php:41
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:34
+#: content.php:13
+msgid ", "
+msgstr ""
+
+#: content-single.php:35
+msgid " | Tags: "
+msgstr ""
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:15
+msgid "Y"
+msgstr ""
+
+#: front-page.php:57
+#: inc/customizer.php:123
+msgid "Read More"
+msgstr ""
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:45
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:46
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: header.php:31
+msgid "Skip to content"
+msgstr ""
+
+#: no-results.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/customizer.php:30
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:31
+msgid "Select color from here."
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Select background color for top header."
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Select background color for header."
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Select background color for footer."
+msgstr ""
+
+#: inc/customizer.php:80
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:82
+msgid ""
+"Recommended image size (1420x567). Slider will work only when you select the "
+"static front page."
+msgstr ""
+
+#: inc/customizer.php:94
+msgid "Select page for slide one:"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Select page for slide two:"
+msgstr ""
+
+#: inc/customizer.php:118
+msgid "Select page for slide three:"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Add slider link button text."
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Check this to hide slider."
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Welcome Section"
+msgstr ""
+
+#: inc/customizer.php:155
+msgid ""
+"Select pages for Welcome Section. This section will be displayed only when "
+"you select the static front page."
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Select page for welcome section"
+msgstr ""
+
+#: inc/customizer.php:181
+#: inc/customizer.php:275
+msgid "Check this to hide section."
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "Top Header"
+msgstr ""
+
+#: inc/customizer.php:192
+msgid "Add top header info here."
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "Add welcome text here."
+msgstr ""
+
+#: inc/customizer.php:212
+msgid "Add facebook link here."
+msgstr ""
+
+#: inc/customizer.php:222
+msgid "Add twitter link here."
+msgstr ""
+
+#: inc/customizer.php:232
+msgid "Add linkedin link here."
+msgstr ""
+
+#: inc/customizer.php:242
+msgid "Add instagram link here."
+msgstr ""
+
+#: inc/customizer.php:252
+msgid "Add phone number here."
+msgstr ""
+
+#: inc/customizer.php:262
+msgid "Add email here."
+msgstr ""
